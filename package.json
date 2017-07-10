@@ -1,5 +1,5 @@
 {
-  "name": "meetup-api",
+  "name": "@unjavascripter/meetup-api",
   "version": "0.0.1",
   "description": "a library to connect to meetup.com",
   "main": "index.js",
